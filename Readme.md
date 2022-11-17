@@ -1,4 +1,5 @@
-# REST API Grandysoft test task
+# REST API
+## Grandysoft test task
 
 To start this project, first of all you should have NodeJs downloaded. 
 Then clone this project, start terminal at root directory, write down these 2 commands and execute them:
